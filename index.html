@@ -2,28 +2,13 @@
 <html>
 <head>
 	<title>Javascript Timed Quiz</title>
-	<script src="script.js"></script>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>JavaScript Knowledge</h1>
-	<form>
-		<h2>Question 1</h2>
-		<p> What is JavaScript?</p>
-		<input type="radio" name="q1" value="scripting"> scripting language used to make the website interactive<br>
-		<input type="radio" name="q1" value="assembly">assembly language used to make the website interactive<br>
-		<input type="radio" name="q1" value="compiled">compiled language used to make the website interactive<br>
-        <input type="radio" name="q1" value="none">None of the mentioned<br>
-
-		<h2>Question 2</h2>
-		<p>Arrays in JavaScript are defined by which of the following statements?</p>
-		<input type="radio" name="q2" value="values">It is an ordered list of values<br>
-		<input type="radio" name="q2" value="objects"> It is an ordered list of objects<br>
-		<input type="radio" name="q2" value="string">It is an ordered list of string<br>
-        <input type="radio" name="q2" value="function"> It is an ordered list of functions<br>
-
-		<input type="button" value="Submit" onclick="checkAnswers()">
-	</form>
-	<div id="timer"></div>
-	<div id="results"></div>
-</body>
-</html>
+    <div class="container">
+        <div id="home" class="flex-column flex-center">
+            <h1>Are you Ready?</h1>
+            <a href="/game.html" class="btn">Play</a>
+            <a href="/highscores.html" id="highscores-btn" class="btn">High Scores</a>
+        </div>
+    </div>

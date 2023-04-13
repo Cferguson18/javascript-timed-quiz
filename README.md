@@ -32,4 +32,12 @@ THEN I can save my initials and score
 
 # Mock up
 
-<img >
+<img src="/images/04-web-apis-homework-demo.gif">
+
+# Resources
+
+JavaScript MCQ (Multiple Choice Questions): https://www.sanfoundry.com/1000-javascript-questions-answers/#:~:text=JavaScript%20MCQ%20%28Multiple%20Choice%20Questions%29%201%201.%20What,which%20of%20the%20following%20statements%3F%20...%20More%20items
+
+How to Make a Quiz App using HTML CSS Javascript - Vanilla Javascript Project for Beginners Tutorial: https://www.youtube.com/watch?v=f4fB9Xg2JEY
+
+ 
