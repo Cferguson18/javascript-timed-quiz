@@ -43,4 +43,6 @@ JavaScript MCQ (Multiple Choice Questions): https://www.sanfoundry.com/1000-java
 
 How to Make a Quiz App using HTML CSS Javascript - Vanilla Javascript Project for Beginners Tutorial: https://www.youtube.com/watch?v=f4fB9Xg2JEY
 
+rgb Colors: https://www.rapidtables.com/web/color/html-color-codes.html
+
  
