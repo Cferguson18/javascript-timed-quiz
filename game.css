@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: #fff;
 }
 
 .choice-container {
@@ -7,11 +7,47 @@ body {
     margin-bottom: 0.8rem;
     width: 100%;
     border-radius: 4px;
-    background: rgb(148,0,211);
+    background: rgb(127, 0, 211);
     font-size: 3rem;
-    min-width: 80rem;
+    min-width: 6rem;
+    justify-content: center;
+    align-items: center;
 }
 
 .choice-container:hover {
 cursor: pointer;
 }
+
+.choice-prefix {
+    padding: 2rem 2.5rem;
+    color: white;
+}
+
+.choice-text {
+    padding: 2rem;
+    width: 100%;
+}
+
+.correct {
+    
+}
+
+.incorrect {
+
+}
+
+#progressBarFull {
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .choice-container {
+        min-width: 40rem;
+        
+  }
+    }

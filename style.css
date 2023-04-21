@@ -1,6 +1,6 @@
 
 :root {
-    background-color: rgb(29, 26, 26);
+    background-color: rgb(59, 57, 57);
     color: white
 }
 
@@ -14,7 +14,7 @@
 }
 
 h1 {
-    font-size: 5.4rem;
+    font-size: 3.4rem;
     color: white;
     margin-bottom: 3rem;
 }
@@ -73,7 +73,7 @@ h2 {
     cursor:pointer
 }
 
-#highscores-btn {
+#highscore-btn {
     background: rgb(211, 0, 123);
 }
 
